@@ -10,7 +10,7 @@ A 3:30 marathon is approximately 5:00min/km. To break 3:30, you should eventuall
 | 3 | Rest | 10km - 1,5km jog, 3x 1600m (10km pace/7:00), 400m jog (3 min), 1,5km jog | 10km easy | 10km progression - start slower, go faster | Rest | 6,5km, inc hill session | 19km |
 | 4 | Rest | 10km - 1,5km jog, 5x 1000m (10km pace/4:15), 200m jog (1,5 min), 1,5km jog | 11km easy | 11km alternating every km faster/slower | Rest | 6,5km easy | 22,5km |
 | 5 | Rest | 10km - 1,5km jog, 12x 400m (5km pace/95-100s), 200m jog (1,5 min), 1,5km jog | 11 km easy | 10km - 1,5 jog, 6,5km HMP, 1,5 jog | Rest | 5km parkrun | 25km |
-| 6 | Rest | 8km - 1,5km jog,16x 200m (5km pace), 200m jog (3 min), 1,5km jog | 16 km easy | 11km 1,5 jog, 8km MP, 1,5 jog | Rest | 5km easy + strides | 21km Race HM|
+| 6 | Rest | 8km - 1,5km jog, 3x 2000m (10km pace), 400m jog (3 min), 1,5km jog | 16 km easy | 11km 1,5 jog, 8km MP, 1,5 jog | Rest | 5km easy + strides | 21km Race HM|
 | 7 | Rest | 8km - 1,5km jog, 16x 200m (5km pace/45-50s), 200m jog (1,5 min), 1,5km jog | 16km easy | 11km - 1,5 jog, 8km MP, 1,5 jog | Rest | 5km parkrun | 27km |
 | 8 | Rest | 11km - 1,5km jog, 4x 1600m (10km pace/7:00), 400m jog (2,5 min), 1,5km jog | 11,5 km easy | 17,5km easy | Rest | 6,5km easy | 25km |
 | 9 | Rest | 11km - 1,5km jog, 6x 1000m (10km pace/4:15), 200m jog (1,5 min), 1,5km jog | 16km easy | 11,5km alternating slow/fast | Rest | 5km parkrun | 32km |
