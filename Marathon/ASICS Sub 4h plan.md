@@ -17,7 +17,7 @@ A 4:00 marathon is approximately 5:40 per km. To break 4:00, you should eventual
 | 10 | Rest | 12km - 1,5km jog, 8x 800m (10km pace/4:00), 200m jog (1,5 min), 1,5km jog | 11,5 km steady | 8km 1,5 jog, 5 MP, 1,5jog | Rest | 5km easy | 32km |
 | 11 | Rest | 8km easy fartlek | 10km easy| 11,5km progression | Rest | 6km fartlek | 21km steady |
 | 12 | Rest | 12km - 1,5km jog, 10x 400m (5km pace/105-110s), 200m jog (1,5 min), 1,5km jog | 8 km easy | 11,5km alternating slow/fast | Rest | 5km easy | 32km |
-| 13 | Rest | 13km - 1,5km jog, 8x 800m (10km pace/4:00), 400m jog (3 min), 1,5km jog | 11,5km easy| 11km -  1,5 jog, 8km MP, 1,5 jog | Rest | 5km easy | 24km |
+| 13 | Rest | 13km - 1,5km jog, 10x 800m (10km pace/4:00), 400m jog (3 min), 1,5km jog | 11,5km easy| 11km -  1,5 jog, 8km MP, 1,5 jog | Rest | 5km easy | 24km |
 | 14 | Rest | 8km - 1,5km jog, 6x 400m (10km pace/2:00), 200m jog (3 min), 1,5km jog | 10 km easy | 10km 1,5 jog, 7km HMP, 1,5 jog | Rest | 5km easy | 20km |
 | 15 | Rest | 8km steady (5:40) + strides | 10km easy | 8km - 1,5 jog 5 HMP, 1,5 jog | Rest | 5km easy | 15km |
 | 16 | Rest | 6,5km easy + strides | Rest | 5km easy | Rest | 5km super easy | 42.2km |
