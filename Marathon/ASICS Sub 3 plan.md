@@ -16,7 +16,7 @@ A 3:00 marathon is approximately 4:15min/km. To break 3:00, you should eventuall
 | 9 | 8km easy | 14km - 1,5km jog, 8x 1000m (10km pace/3:45), 200m jog (1,5 min), 1,5km jog | 21km easy | 14km alternating every km slow/fast | Rest or 6.5km easy | 5km parkrun | 32km |
 | 10 | 8km easy | 14km - 1,5km jog, 8x 800m (3:00), 200m jog (1,5 min), 1,5km jog | 13km steady | Rest or 6.5km easy | 6.5km easy | 5km easy | 24km HMP |
 | 11 | 8km easy | 11km easy fartlek | 13km easy | 14km progression | Rest or 6.5km easy | 8km easy | 32km |
-| 12 | 8km e | 13km - 1,5km jog, 16x 400m (5km pace/80-90s), 200m jog (1,5 min), 1,5km jog | 14km easy | 14km alternating slow/fast | 6.5km easy | Rest or 6,5km easy | 35km slow |
+| 12 | 8km easy | 13km - 1,5km jog, 16x 400m (5km pace/80-90s), 200m jog (1,5 min), 1,5km jog | 14km easy | 14km alternating slow/fast | 6.5km easy | Rest or 6,5km easy | 35km slow |
 | 13 | 8km easy | 14km - 1,5km jog, 6x 1600m (7:00), 400m jog (2 min), 1,5km jog | 19km easy | 14km - 1,5 jog, 11km MP, 1,5 jog | Rest or 6.5km easy | 5km easy | 32km |
 | 14 | 8km easy | 14km - 1,5km jog, 10x 800m (3:00), 200m jog (1 min), 1,5km jog | 14km easy | 10km - 1,5 jog, 7km HMP, 1,5 jog | Rest or 6.5km easy | 5km parkrun | 24km |
 | 15 | 8km easy | 8km - 1,5km jog, 10x 400m (5k Pace), 100m jog (1 min), 1,5km jog | 11km easy | 8km - 1,5 jog 5 HMP, 1,5 jog |  Rest or 6.5km easy | 8km easy | 16km |
