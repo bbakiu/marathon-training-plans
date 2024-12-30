@@ -14,7 +14,7 @@ Easy: 06:10
 |--|--|--|--|--|--|--|--|
 | 1 (37KM) | 5km easy | 8km - 1,5km jog, 4x 800m (10km pace/05:15), 400m jog (3 min), 1,5km jog | Rest | 6,5km easy | Rest | 5km hill session | 13km |
 | 2 (45KM) | Rest | 8km - 1,5km jog, 12x 200m (5km pace/50-55s), 200m jog (1,5 min), 1,5km jog | 6,5km steady (6min/km) | 8km of 1,5km jog, then 5km HMP, 1,5km jog | Rest | 5km easy | 16km |
-| 3 (19KM) | Rest | 10km - 1,5km jog, 3x 1600m (10km pace/05:15), 400m jog (3 min), 1,5km jog | 6,5 km easy | 8km progression - start slower, go faster | Rest | 6,5km hill session | 19km |
+| 3 (50KM) | Rest | 10km - 1,5km jog, 3x 1600m (10km pace/05:15), 400m jog (3 min), 1,5km jog | 6,5 km easy | 8km progression - start slower, go faster | Rest | 6,5km hill session | 19km |
 | 4 (37KM) | Rest | 10km - 1,5km jog, 5x 1000m (10km pace/05:15), 200m jog (1,5 min), 1,5km jog | 10 km easy | 8km alternating every km faster/slower | Rest | Rest | 10km |
 | 5 (55KM) | Rest | 8km - 1,5km jog, 8x 400m (5km pace/05:00), 200m jog (1,5 min), 1,5km jog | 10 km easy | 10km - 1,5 jog, 7km HM pace, 1,5 jog | Rest | 5km easy | 22km |
 | 6 (55KM) | Rest | 10km - 1,5km jog, 3x 2000m (10km pace/05:15), 400m jog (3 min), 1,5km jog | 11,5 km easy | 8km - 1,5 jog, 5 MP, 1,5 jog | Rest | 5km easy + strides | 21km Race |
