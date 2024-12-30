@@ -1,7 +1,14 @@
 
 # Sub-4:00 training plan
  
-A 4:00 marathon is approximately 5:40 per km. To break 4:00, you should eventually be capable of a sub-1:50 half marathon (5:12 per km) and sub-50:00 10K (5:00 per km). Right now, you should be running at least 20min/mile per week, and be able to run for 60-80 minutes non-stop comfortably.
+A 4:00 marathon is approximately 5:40 per km. To break 4:00, you should eventually be capable of a sub-1:50 half marathon (5:12 per km) and sub-50:00 10K (5:00 per km). Right now, you should be running at least 32 km per week, and be able to run for 60-80 minutes non-stop comfortably.
+1 KM Pace: 04:40
+5 KM Pace: 05:00 
+10 KM Pace: 05:15 
+Tempo Pace: 05:30 
+HM Pace: 05:25
+Marathon Pace: 05:40 
+Easy: 06:10
 
 | Week | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 |--|--|--|--|--|--|--|--|
